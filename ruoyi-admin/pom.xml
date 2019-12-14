@@ -73,6 +73,11 @@
             <artifactId>ruoyi-generator</artifactId>
         </dependency>
         
+        <!-- 客户系统化-->
+        <dependency>
+            <groupId>com.ruoyi</groupId>
+            <artifactId>ruoyi-crm</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
